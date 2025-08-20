@@ -38,3 +38,8 @@ predictive-restaurant-profit/
    ```bash
    git clone https://github.com/Mahmoud-m-fawzy/predictive-restaurant-profit.git
    cd predictive-restaurant-profit
+   ---
+
+## 👨‍💻 Author
+Developed by **Mahmoud**  
+GitHub: [Mahmoud-m-fawzy](https://github.com/Mahmoud-m-fawzy)
